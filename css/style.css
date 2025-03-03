@@ -1,0 +1,191 @@
+body {
+    color: #000;
+    font-family: 'lato';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+.header-title {
+    color: #005FA3;
+    font-family: 'merriweather';
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 50px;
+}
+
+.header-contact-text {
+    color: #000;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.header-contact-link {
+    text-decoration-line: none;
+}
+
+.header-nav-link {
+    text-decoration: none;
+    color: #222;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 10%;
+}
+
+.desc {
+    background-color: #000;
+    background-image: url(../img/first-screen-bkg.jpg);
+}
+
+.desc-title {
+    color: #FFF;
+    font-family: 'merriweather';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 67px;
+}
+
+.desc-link {
+    background: #005FA3;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.service {
+    background: #EBEBEB;
+}
+
+.section-title {
+    color: #BDBDBD;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 34px;
+}
+
+.section-sub-title {
+    color: #333;
+    font-family: 'merriweather';
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+.service-item-link {
+    background-image: url(../img/services-bkg.png);
+    text-decoration: none;
+}
+
+
+.service-item-title {
+    color: #FFF;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.about-item {
+    background: #EBEBEB;
+}
+
+.text {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.section-sub-title-blue {
+    color: #005FA3;
+}
+
+.about-item-num {
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 66px;
+    letter-spacing: 10%;
+}
+
+.about-item-header {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+.about-item-link {
+    color: #005FA3;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: Auto;
+
+}
+
+.button {
+    background-color: #005FA3;
+    color: #FFF;
+    font-weight: 400;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border: none;
+}
+
+.review-item {
+    background-color: #EBEBEB;
+}
+
+.review-item-text {
+    color: #000;
+}
+
+.review-item-author {
+    color: #000;
+    font-weight: 900;
+}
+
+.review-item-position {
+    color: #4F4F4F;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.advantage {
+    background: #EBEBEB;
+}
+
+.advantage-desc {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.footer-bkg {
+    color: #FFF;
+    background-color: #161616;
+    background-image: url(../img/first-screen-bkg.jpg);
+}
+
+.white {
+    color: #FFF;
+}
+
+.footer-contact {
+    color: #FFF;
+    font-size: 21px;
+    line-height: 29px;
+}
+
+.footer-text {
+    font-size: 14px;
+    line-height: 20px;
+}
+
